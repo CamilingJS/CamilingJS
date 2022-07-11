@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jonathan Camiling</h1>
 
-<!--
-**CamilingJS/CamilingJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">  </p>
 
-Here are some ideas to get you started:
+<p align="left">  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at https://jaycam.dev/
+- 📫 How to reach me jonathan@jaycam.dev
+- 📄 Know about my experiences https://drive.google.com/file/d/1QmAJ7kIqTa4H82l02I59wPZOawdRlfRH/view?usp=sharing
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+
+
+
+
+
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">                                                       </p>
+
+<p></p>
+
+<p></p>
+
+

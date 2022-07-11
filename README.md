@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Jonathan Camiling</h1>
+<h3 align="center">Hi 👋, I'm Jonathan Camiling</h3>
 
 Freelance Frontend Engineer, I thrive to combine my passion with my years of experience in business and finance to support teams, business owners, individual brands, and entrepreneurs to navigate and convert their ideas, dreams, and passions into profitable rewards using the power of technology.
 

@@ -87,7 +87,7 @@ See [my website](https://jaycam.dev) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/CamilingJS/larkspurbarbershop" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://larkspurbarbershop.netlify.app/" target="_blank">

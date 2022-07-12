@@ -38,11 +38,9 @@ See [my website](https://jaycam.dev) for more information!
         <br />
         <p align="center">
           
+  
   <a href="https://jaycam.dev/tailoredthreads" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://jaycam.dev/tailoredthreads" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
   </a>
       </p>
         <p>Tailored Threads is a demonstrative e-Commerce website specialized for high volume inventory. Built on the premium Shopify theme, it is fully customized with an original logo and modern design. Due to it’s high volume, Shopify display tools such as Mega-menus, Shop the Look, and Tag-based collection filters are leveraged to provide an awesome user experience.</p>
@@ -56,11 +54,8 @@ See [my website](https://jaycam.dev) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
   <a href="https://jaycam.dev/mauicruisers" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
   </a>
       </p>
         <p>Maui Cruisers is a demonstrative eCommerce website specializing in a single product store. The website is built on the Shopify platform to demonstrate my abilities in Store Setup from both the backend and frontend. It was built with Responsive Design in mind to ensure the site looks great on any device!</p>
@@ -76,11 +71,9 @@ See [my website](https://jaycam.dev) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+
   <a href="https://jaycam.dev/cypherbrew" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
   </a>
       </p>
         <p>Cypher Brew exemplifies how a small business can keep its local charm and compete against the big guys. Built on the free theme Dawn with Shopify 2.0, it is intended to be elevated from it's essential architecture and now boast a modern and sleek design. The Shopify theme is fully customized for every need of the client.</p>
@@ -98,7 +91,7 @@ See [my website](https://jaycam.dev) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://larkspurbarbershop.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> Landing page for a local barbershop.</p>

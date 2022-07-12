@@ -86,7 +86,7 @@ See [my website](https://jaycam.dev) for more information!
         <p>Cypher Brew exemplifies how a small business can keep its local charm and compete against the big guys. Built on the free theme Dawn with Shopify 2.0, it is intended to be elevated from it's essential architecture and now boast a modern and sleek design. The Shopify theme is fully customized for every need of the client.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Larkspur Baarbershop</h3>
+      <h3 align="center">Larkspur Barbershop</h3>
         <br />
         <a target="_blank" href="https://larkspurbarbershop.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>

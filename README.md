@@ -33,7 +33,7 @@ See [my website](https://jaycam.dev) for more information!
       <h3 align="center">Tailored Threads</h3>
         <br />
         <a target="_blank" href="https://jaycam.dev/tailoredthreads">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="./imgs/Tailored-ThreadsGIF.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
@@ -49,7 +49,7 @@ See [my website](https://jaycam.dev) for more information!
       <h3 align="center">Maui Cruisers</h3>
         <br />
       <a target="_blank" href="https://jaycam.dev/mauicruisers">
-            <img src="images/gif2.gif" width="100%"  alt=""/>
+            <img src="./imgs/MauiCruisersGIF.gif" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
@@ -67,7 +67,7 @@ See [my website](https://jaycam.dev) for more information!
       <h3 align="center">Cypher Brew</h3>
       <br />
         <a target="_blank" href="https://jaycam.dev/cypherbrew">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="./imgs/CypherBrewGIF.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -82,7 +82,7 @@ See [my website](https://jaycam.dev) for more information!
       <h3 align="center">Larkspur Barbershop</h3>
         <br />
         <a target="_blank" href="https://larkspurbarbershop.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="./imgs/LarkspurBarbershop.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
@@ -94,7 +94,7 @@ See [my website](https://jaycam.dev) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> Landing page for a local barbershop.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> Built on fundamental HTML, CSS, and Vanilla Javascript, Larkspur Barbershop is intended to be a landing page for a local barbershop. Links to Calendly are implemented to allow users to conveniently book their appointments in a few clicks of the mouse.</p>
     </td>
   </tr>
 </table>

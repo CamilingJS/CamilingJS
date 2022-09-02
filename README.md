@@ -1,4 +1,4 @@
-<img src="./imgs/Banner.gif" width="100%">
+<img src="./imgs/Banner.gif" width="100%" alt="./BannerFromLinkedIn.jpg" >
 
 <p align="center">
   <a href="https://jaycam.dev" target="_blank">

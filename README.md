@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> Built on fundamental HTML, CSS, and Vanilla Javascript, Larkspur Barbershop is intended to be a landing page for a local barbershop. Links to Calendly are implemented to allow users to conveniently book their appointments in a few clicks of the mouse.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> <br> Built on fundamental HTML, CSS, and Vanilla Javascript, Larkspur Barbershop is intended to be a landing page for a local barbershop. Links to Calendly are implemented to allow users to conveniently book their appointments in a few clicks of the mouse.</p>
     </td>
   </tr>
 </table>

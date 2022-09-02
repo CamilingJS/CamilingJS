@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQHDwF-wTn4kKw/profile-displaybackgroundimage-shrink_350_1400/0/1646889226399?e=1663200000&v=beta&t=cLguZNQ0jefroX3sac0Js3tF2nLC8bVVFAM-hsL431w" width="100%">
+<img src="./imgs/Banner.gif" width="100%">
 
 <p align="center">
   <a href="https://jaycam.dev" target="_blank">

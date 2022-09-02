@@ -1,5 +1,7 @@
-<img src="./imgs/Banner.gif" width="100%" alt="./BannerFromLinkedIn.jpg" >
 
+<a href="https://drive.google.com/file/d/1j8zCWbP4_NWWMCPOuo10u1rU4zB6s8wM/view?usp=sharing" target="_blank">
+<img align="center" src="./imgs/Banner.gif" width="100%" alt="www.jaycam.dev" >
+</a>
 <p align="center">
   <a href="https://jaycam.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>

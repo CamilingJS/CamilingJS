@@ -148,4 +148,10 @@
   <a href="https://drive.google.com/file/d/1j8zCWbP4_NWWMCPOuo10u1rU4zB6s8wM/view?usp=sharing" target="_blank">
       <img width="90px" src="https://www.ayeyo.me/skillsimages/Resume.svg"/>
   </a>
+  <a href="mailto:jonathan@jaycam.dev" target="_blank">
+      <img width="90px" src="https://www.ayeyo.me/skillsimages/Email.svg"/>
+  </a>
+  <a href="tel:+6502464953" target="_blank">
+      <img width="90px" src="https://www.ayeyo.me/skillsimages/Phone.svg"/>
+  </a>
 </p>

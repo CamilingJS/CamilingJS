@@ -151,7 +151,7 @@
   <a href="mailto:jonathan@jaycam.dev" target="_blank">
       <img width="90px" src="https://www.ayeyo.me/skillsimages/Email.svg"/>
   </a>
-  <a href="tel:+6502464953" target="_blank">
+  <a href="https://www.ayeyo.me/contactcard" target="_blank">
       <img width="90px" src="https://www.ayeyo.me/skillsimages/Phone.svg"/>
   </a>
 </p>

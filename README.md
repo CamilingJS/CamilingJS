@@ -5,8 +5,8 @@
 
 <h2 align="center">Hi 👋, I'm Jonathan Camiling</h2>
 
-#### 👨🏽‍🔬 Freelance Frontend Engineer  
-#### 🤎 I thrive to combine my passion for coding with my years of experience in business and finance to support teams, business owners, individual brands, and entrepreneurs to navigate the e-Commerce and Web Development space to convert their ideas, dreams, and passions into profitable rewards using the power of technology.
+### 👨🏽‍🔬 Freelance Frontend Engineer  
+### 🤎 I thrive to combine my passion for coding with my years of experience in business and finance to support teams, business owners, individual brands, and entrepreneurs to navigate the Web Development and E-Commerce space by converting their ideas, dreams, and passions into profitable rewards using the power of technology.
 
 💻 See [my website](https://jaycam.dev) for more information!
 

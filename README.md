@@ -4,7 +4,7 @@
 </a>
 <p align="center">
   <a href="https://jaycam.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://www.ayeyo.me/skillsimages/Portfolio.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/jonathancamiling/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>

@@ -108,20 +108,20 @@
 
 <a href="https://jaycam.dev" >
   <p align="center">
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/React.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/NodeJS.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/MongoDB.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Express.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Javascript.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/JQuery.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/HTML.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/CSS.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Github.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/VSCode.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Illustrator.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Photoshop.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Shopify.svg" />
-    <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Liquid.svg" /> 
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/React.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/NodeJS.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/MongoDB.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Express.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Javascript.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/JQuery.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/HTML.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/CSS.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Github.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/VSCode.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Illustrator.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Photoshop.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Shopify.svg" />
+    <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Liquid.svg" /> 
   </p>
 </a>
 

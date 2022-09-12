@@ -106,8 +106,8 @@
 
 <h1 align="center">Technologies</h1>
 
-
-<p align="center">
+<a href="https://jaycam.dev" >
+  <p align="center">
     <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/React.svg" />
     <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/NodeJS.svg" />
     <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/MongoDB.svg" />
@@ -122,7 +122,9 @@
     <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Photoshop.svg" />
     <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Shopify.svg" />
     <img width="90px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/Liquid.svg" /> 
-</p>
+  </p>
+</a>
+
 
 
 

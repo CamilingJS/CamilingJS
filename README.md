@@ -13,7 +13,7 @@
 💻 See [my website](https://jaycam.dev) for more information and I'm happy to connect on any of these platforms!
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Frontend+Engineer;🧰%20MongoDB|ExpressJs|ReacJs|NodeJs;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Soloprenuer%20|+Freelancer%20|Designer%20|;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Frontend+Engineer;🧰%20MongoDB|ExpressJs|ReacJs|NodeJs;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Soloprenuer%20|+Freelancer%20|+Designer%20|;&center=true&width=500&height=50"></a>
 </p>
 
 

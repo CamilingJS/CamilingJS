@@ -1,14 +1,21 @@
 
 <a href="https://drive.google.com/file/d/1j8zCWbP4_NWWMCPOuo10u1rU4zB6s8wM/view?usp=sharing" target="_blank">
-<img align="center" src="./imgs/Banner.gif" width="100%" alt="www.jaycam.dev" >
+<img align="center" src="./imgs/BannerFromLinkedIn.jpg" width="100%" alt="www.jaycam.dev" >
 </a>
 
-<h2 align="center">Hi 👋, I'm Jonathan Camiling</h2>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Jonathan</h1>
+
 
 ### 👨🏽‍🔬 Freelance Frontend Engineer  
 ### 🤎 I thrive to combine my passion for coding with my years of experience in business and finance to support teams, business owners, individual brands, and entrepreneurs to navigate the Web Development and E-Commerce space by converting their ideas, dreams, and passions into profitable rewards using the power of technology.
 
 💻 See [my website](https://jaycam.dev) for more information!
+
+<p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Frontend+Engineer;🧰%20MongoDB|ExpressJs|ReacJs|NodeJs;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Soloprenuer%20|+Freelancer%20|Designer%20|;&center=true&width=500&height=50"></a>
+</p>
+
 
 <p align="center">
   <a href="https://jaycam.dev" target="_blank">

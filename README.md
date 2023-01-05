@@ -7,8 +7,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Jonathan</h1>
 
 
-### 👨🏽‍🔬 Freelance Frontend Engineer  
+### 👨🏽‍🔬 Frontend Software Developer for hire!  
 ### 🤎 I thrive to combine my passion for coding with my years of experience in business and finance to support teams, business owners, individual brands, and entrepreneurs to navigate the Web Development and E-Commerce space by converting their ideas, dreams, and passions into profitable rewards using the power of technology.
+### 👁 I have a knack for web design and the passion for turning ideas into reality. 
 
 💻 See [my website](https://jaycam.dev) for more information and I'm happy to connect on any of these platforms!
 

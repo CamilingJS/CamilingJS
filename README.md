@@ -1,5 +1,5 @@
 
-<a href="https://drive.google.com/file/d/1j8zCWbP4_NWWMCPOuo10u1rU4zB6s8wM/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
 <img align="center" src="./imgs/BannerFromLinkedIn.jpg" width="100%" alt="www.jaycam.dev" >
 </a>
 
@@ -31,7 +31,7 @@
   <a href="https://angel.co/u/jonathan-camiling" target="_blank">
       <img width="90px" src="https://www.ayeyo.me/skillsimages/Angellist.svg"/>
   </a>
-  <a href="https://drive.google.com/file/d/1j8zCWbP4_NWWMCPOuo10u1rU4zB6s8wM/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
       <img width="90px" src="https://www.ayeyo.me/skillsimages/Resume.svg"/>
   </a>
 </p>
@@ -160,7 +160,7 @@
   <a href="https://angel.co/u/jonathan-camiling" target="_blank">
       <img width="90px" src="https://www.ayeyo.me/skillsimages/Angellist.svg"/>
   </a>
-  <a href="https://drive.google.com/file/d/1j8zCWbP4_NWWMCPOuo10u1rU4zB6s8wM/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
       <img width="90px" src="https://www.ayeyo.me/skillsimages/Resume.svg"/>
   </a>
   <a href="mailto:jonathan@jaycam.dev" target="_blank">

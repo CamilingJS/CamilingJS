@@ -11,7 +11,7 @@
 ### 🤎 I thrive to combine my passion for coding with my years of experience in business and finance to support teams, business owners, individual brands, and entrepreneurs to navigate the Web Development and E-Commerce space by converting their ideas, dreams, and passions into profitable rewards using the power of technology.
 ### 👁 I have a knack for web design and the passion for turning ideas into reality. 
 
-💻 See [my website](https://jaycam.dev) for more information and I'm happy to connect on any of these platforms!
+💻 See [my website](https://camilingjs.com) for more information and I'm happy to connect on any of these platforms!
 
 <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Frontend+Software+Developer;🧰%20MongoDB|ExpressJs|ReacJs|NodeJs;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Soloprenuer%20|+Freelancer%20|+Designer%20|;&center=true&width=500&height=50"></a>
@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <a href="https://jaycam.dev" target="_blank">
+  <a href="https://camilingjs.com" target="_blank">
     <img width="90px" src="https://www.ayeyo.me/skillsimages/Portfolio.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/jonathancamiling/" target="_blank">
@@ -121,7 +121,7 @@
 
 <h1 align="center">Technologies</h1>
 
-<a href="https://jaycam.dev" >
+<a href="https://camilingjs.com" >
   <p align="center">
     <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/React.svg" />
     <img width="113px" alt="JavaScript" src="https://www.ayeyo.me/skillsimages/NodeJS.svg" />
@@ -148,7 +148,7 @@
 
 <h1 align="center">Connect</h1>
 <p align="center">
-  <a href="https://jaycam.dev" target="_blank">
+  <a href="https://camilingjs.com" target="_blank">
     <img width="90px" src="https://www.ayeyo.me/skillsimages/Portfolio.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/jonathancamiling/" target="_blank">

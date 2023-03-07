@@ -1,6 +1,6 @@
 
 <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
-<img align="center" src="./imgs/BannerFromLinkedIn.jpg" width="100%" alt="www.jaycam.dev" >
+<img align="center" src="https://media.licdn.com/dms/image/D5616AQGfpFXQSq0DaA/profile-displaybackgroundimage-shrink_350_1400/0/1678168672653?e=1683763200&v=beta&t=r2Ya7im_GOX4XwIMwBZyNiK2_mzJifHogV_77u0V4cs" width="100%" alt="www.jaycam.dev" >
 </a>
 
 

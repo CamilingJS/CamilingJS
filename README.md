@@ -74,6 +74,7 @@
     <a href="https://github.com/CamilingJS/StickyMarket" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
+    <a href="https://github.com/CamilingJS/StickyMarket" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>

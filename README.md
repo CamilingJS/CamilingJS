@@ -1,6 +1,6 @@
 
 <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
-<img align="center" src="https://media.licdn.com/dms/image/D5616AQGfpFXQSq0DaA/profile-displaybackgroundimage-shrink_350_1400/0/1678168672653?e=1683763200&v=beta&t=r2Ya7im_GOX4XwIMwBZyNiK2_mzJifHogV_77u0V4cs" width="100%" alt="www.jaycam.dev" >
+<img align="center" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688168847/Banner-Buildings_gghnnq.jpg" width="100%" alt="www.jaycam.dev" >
 </a>
 
 
@@ -23,16 +23,16 @@
     <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Portfolio_ob8jff.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/jonathancamiling/" target="_blank">
-    <img width="90px" src="https://www.ayeyo.me/skillsimages/LinkedIn.svg"/>
+    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167315/Icons/LinkedIn_zvteol.svg"/>
   </a>
   <a href="https://twitter.com/JayCamDev" target="_blank">
-    <img width="90px" src="https://www.ayeyo.me/skillsimages/Twitter.svg"/>
+    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167319/Icons/Twitter_lscpvt.svg"/>
   </a>
   <a href="https://angel.co/u/jonathan-camiling" target="_blank">
-      <img width="90px" src="https://www.ayeyo.me/skillsimages/Angellist.svg"/>
+      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/Angellist_dxlkpp.svg"/>
   </a>
   <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
-      <img width="90px" src="https://www.ayeyo.me/skillsimages/Resume.svg"/>
+      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Resume_n9qrqn.svg"/>
   </a>
 </p>
 

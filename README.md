@@ -150,24 +150,24 @@
 <h1 align="center">Connect</h1>
 <p align="center">
   <a href="https://camilingjs.com" target="_blank">
-    <img width="90px" src="https://www.ayeyo.me/skillsimages/Portfolio.svg"/>
+    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Portfolio_ob8jff.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/jonathancamiling/" target="_blank">
-    <img width="90px" src="https://www.ayeyo.me/skillsimages/LinkedIn.svg"/>
+    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167315/Icons/LinkedIn_zvteol.svg"/>
   </a>
   <a href="https://twitter.com/JayCamDev" target="_blank">
-    <img width="90px" src="https://www.ayeyo.me/skillsimages/Twitter.svg"/>
+    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167319/Icons/Twitter_lscpvt.svg"/>
   </a>
   <a href="https://angel.co/u/jonathan-camiling" target="_blank">
-      <img width="90px" src="https://www.ayeyo.me/skillsimages/Angellist.svg"/>
+      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/Angellist_dxlkpp.svg"/>
   </a>
   <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
-      <img width="90px" src="https://www.ayeyo.me/skillsimages/Resume.svg"/>
+      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Resume_n9qrqn.svg"/>
   </a>
   <a href="mailto:jonathan@jaycam.dev" target="_blank">
-      <img width="90px" src="https://www.ayeyo.me/skillsimages/Email.svg"/>
+      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Email_enql1e.svg"/>
   </a>
-  <a href="https://www.ayeyo.me/contactcard" target="_blank">
-      <img width="90px" src="https://www.ayeyo.me/skillsimages/Phone.svg"/>
+  <a href="https://camilingjs.com/#contact" target="_blank">
+      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Phone_cfzjxz.svg"/>
   </a>
 </p>

@@ -167,7 +167,7 @@
   <a href="mailto:jonathan@jaycam.dev" target="_blank">
       <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Email_enql1e.svg"/>
   </a>
-  <a href="https://camilingjs.com/#contact" target="_blank">
+  <a href="https://camilingjs.com/contactcard" target="_blank">
       <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Phone_cfzjxz.svg"/>
   </a>
 </p>

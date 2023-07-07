@@ -14,7 +14,7 @@
 💻 See [my website](https://camilingjs.com) for more information and I'm happy to connect on any of these platforms!
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Frontend+Software+Developer;🧰%20MongoDB|ExpressJs|ReacJs|NodeJs;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Soloprenuer%20|+Freelancer%20|+Designer%20|;&center=true&width=500&height=50"></a>
+  <a href="https://camilingjs.com/"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Frontend+Software+Developer;🧰%20MongoDB|ExpressJs|ReacJs|NodeJs;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Soloprenuer%20|+Freelancer%20|+Designer%20|;&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -44,7 +44,7 @@
   
   
   
-  <tr>
+  <tr style="background-image: url(https://res.cloudinary.com/dxctpvd8v/image/upload/v1687994373/Ayeyo.me/bg-noise-download_s8smjm.png)" >
     <td width="50%" valign="top">
       <h3 align="center">Tailored Threads</h3>
         <br />
@@ -82,7 +82,7 @@
     </td>
   </tr>
   
-  <tr>
+  <tr style="background-image: url(https://res.cloudinary.com/dxctpvd8v/image/upload/v1687994373/Ayeyo.me/bg-noise-download_s8smjm.png)" >
     <td width="50%" valign="top">
       <h3 align="center">Cypher Brew</h3>
       <br />
@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> <br> Built on fundamental HTML, CSS, and Vanilla Javascript, Larkspur Barbershop is intended to be a landing page for a local barbershop. Links to Calendly are implemented to allow users to conveniently book their appointments in a few clicks of the mouse.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> <br> Built on fundamental HTML, CSS, and Vanilla Javascript, Larkspur Barbershop is a marketing website for a local barbershop. Links to Calendly are implemented to allow users to conveniently book their appointments in a few clicks of the mouse.</p>
     </td>
   </tr>
 </table>

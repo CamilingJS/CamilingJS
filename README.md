@@ -1,6 +1,6 @@
 
 <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
-<img align="center" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688168847/Banner-Buildings_gghnnq.jpg" width="100%" alt="www.jaycam.dev" >
+<img align="center" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1715141794/CamilingJS_Banner-WebP_wumjde.webp" width="100%" alt="Banner stating that Jonathan Camiling is Analytical, Resourceful, and Determined." >
 </a>
 
 

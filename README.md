@@ -38,12 +38,12 @@
 <h1 align="center">Companies I've collaborated with</h1>
 <a href="https://camilingjs.com" >
   <p align="center">
-    <img width="160px" alt="APEL" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731479547/Data_Analysis/Apel_WoB_r6lsft" />
-    <img width="160px" alt="Volvo" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480087/Data_Analysis/Volvo_WoB_jwkdtk" />
-    <img width="160px" alt="Pinkerton" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480317/Data_Analysis/Pinkerton_WoB_rurhgh" />
-    <img width="160px" alt="Omniduct" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480939/Data_Analysis/Omniduct_WoB_qpthoa" />
-    <img width="160px" alt="MutualOfOmahaMortgage" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731481227/Data_Analysis/Mutual_WoB_ckeing" />
-    <img width="160x" alt="LA Model Management" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731481915/Data_Analysis/LA_Model_WoB_vxhszo" />
+    <img width="120px" alt="APEL" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731479547/Data_Analysis/Apel_WoB_r6lsft" />
+    <img width="120px" alt="Volvo" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480087/Data_Analysis/Volvo_WoB_jwkdtk" />
+    <img width="120px" alt="Pinkerton" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480317/Data_Analysis/Pinkerton_WoB_rurhgh" />
+    <img width="120px" alt="Omniduct" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480939/Data_Analysis/Omniduct_WoB_qpthoa" />
+    <img width="120px" alt="MutualOfOmahaMortgage" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731481227/Data_Analysis/Mutual_WoB_ckeing" />
+    <img width="120x" alt="LA Model Management" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731481915/Data_Analysis/LA_Model_WoB_vxhszo" />
   </p>
 </a>
 

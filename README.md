@@ -56,12 +56,8 @@
 </a>
 
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Work Demos</h1>
 <table bordercolor="#66b2b2">
-  
-  
-  
-  
   
   <tr style="background-image: url(https://res.cloudinary.com/dxctpvd8v/image/upload/v1687994373/Ayeyo.me/bg-noise-download_s8smjm.png)" >
     <td width="50%" valign="top">

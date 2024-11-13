@@ -35,6 +35,26 @@
   </a>
 </p>
 
+<h1 align="center">Companies I've collaborated with</h1>
+<a href="https://camilingjs.com" >
+  <p align="center">
+    <img width="113px" alt="React" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/React_kd0d2a.svg" />
+    <img width="113px" alt="NodeJS" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/NodeJS_fu3vxy.svg" />
+    <img width="113px" alt="MongDB" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/MongoDB_kic9za.svg" />
+    <img width="113px" alt="Express" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Express_b0a1wn.svg" />
+    <img width="113px" alt="JavaScript" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/JavaScript_rbmc4n.svg" />
+    <img width="113px" alt="JQuery" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/JQuery_ulxhwg.svg" />
+    <img width="113px" alt="HTML" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167321/Icons/HTML_m92jqv.svg" />
+    <img width="113px" alt="CSS" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/CSS_zcsndz.svg" />
+    <img width="113px" alt="Github" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167321/Icons/Github_eqiymp.svg" />
+    <img width="113px" alt="VS Code" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167319/Icons/VSCode_xsvj3v.svg" />
+    <img width="113px" alt="Illustrator" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/Illustrator_lxern8.svg" />
+    <img width="113px" alt="Photoshop" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/Photoshop_yhelr4.svg" />
+    <img width="113px" alt="Shopify" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Shopify_hzeqma.svg" />
+    <img width="113px" alt="Liquid" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/Liquid_fdghrg.svg" /> 
+  </p>
+</a>
+
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -117,7 +137,6 @@
     </td>
   </tr>
 </table>
-
 
 <h1 align="center">Technologies</h1>
 

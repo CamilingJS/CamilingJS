@@ -38,15 +38,20 @@
 <h1 align="center">Companies I've collaborated with</h1>
 <a href="https://camilingjs.com" >
   <p align="center">
+    <img width="120px" alt="Crunchbase" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731484852/Data_Analysis/Crunchbase_WoB_fkcx36" />
     <img width="120px" alt="Discord" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731483181/Data_Analysis/Discord_WoB_rmxqql" />
     <img width="120px" alt="Evernote" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731483782/Data_Analysis/Evernote_WoB_x7cjza" />
     <img width="120px" alt="Lark Technologies" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731482903/Data_Analysis/Lark_WoB_t2mfmv" />
     <img width="120px" alt="Exabeam" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731483976/Data_Analysis/Exabeam_WoB_szri28" />
-    <img width="120px" alt="Pinkerton" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480317/Data_Analysis/Pinkerton_WoB_rurhgh" />
     <img width="120px" alt="Volvo" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480087/Data_Analysis/Volvo_WoB_jwkdtk" />
     <img width="120px" alt="Din Tai Fung Consulting and Management" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731483432/Data_Analysis/DTF_WoB_hztvy8" />
     <img width="120px" alt="MutualOfOmahaMortgage" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731481227/Data_Analysis/Mutual_WoB_ckeing" />
+    <img width="120px" alt="Conga" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731485095/Data_Analysis/Conga_WoB_dote39" />
+    <img width="120px" alt="Pinkerton" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480317/Data_Analysis/Pinkerton_WoB_rurhgh" />
+    <img width="120px" alt="Habitat For Humanity" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731484204/Data_Analysis/Habitat_WoB_ogpgvw" />
+    <img width="120px" alt="Baja Fresh Enterprise" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731484339/Data_Analysis/Fresh_WoB_fjlck0" />
     <img width="120px" alt="APEL Extrusions" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731479547/Data_Analysis/Apel_WoB_r6lsft" />
+    <img width="120px" alt="Synergy One Lending" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731484613/Data_Analysis/SynergyOneLending_WoB_mc9cng" />
     <img width="120x" alt="LA Model Management" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731481915/Data_Analysis/LA_Model_WoB_vxhszo" />
     <img width="120px" alt="Omniduct" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1731480939/Data_Analysis/Omniduct_WoB_qpthoa" />
   </p>

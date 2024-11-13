@@ -10,7 +10,7 @@
 ### 🤎 I thrive to combine my passion for coding with my years of experience in business and finance to support teams, business owners, individual brands, and entrepreneurs to navigate the world of data and converting their ideas, dreams, and passions into profitable rewards using the power of technology.
 
 <p align="center">
-  <a href="https://camilingjs.com/"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Data+Analyst;🧰%20Excel|SQL|Python|Tableau;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Soloprenuer%20|+Freelancer%20|+Engineer%20|;&center=true&width=500&height=50"></a>
+  <a href="https://camilingjs.com/"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Data+Analyst;🧰%20Excel|SQL|Python|Tableau;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Data+Analyst%20|+Data+Engineer%20|+Data+Scientist%20|;&center=true&width=500&height=50"></a>
 </p>
 
 

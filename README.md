@@ -7,7 +7,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Jonathan Camiling</h1>
 
 ### 👨🏽‍🔬 Data Analyst for hire!  
-### 🤎 I thrive to combine my passion for coding with my years of experience in business and finance to support teams, business owners, individual brands, and entrepreneurs to navigate the world of data and converting their ideas, dreams, and passions into profitable rewards using the power of technology.
+### 🤎 I am a data analyst with 9+ years of experience collaborating with tech companies specializing in SaaS and business solutions, with a focus on billing and finance. I excel in leveraging SQL, Excel, and Tableau to deliver actionable business intelligence and support sound decision-making.
 
 <p align="center">
   <a href="https://camilingjs.com/"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Data+Analyst;🧰%20Excel|SQL|Python|Tableau;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Data+Analyst%20|+Data+Engineer%20|+Data+Scientist%20|;&center=true&width=500&height=50"></a>

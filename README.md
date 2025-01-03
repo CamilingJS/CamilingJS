@@ -13,22 +13,9 @@
   <a href="https://camilingjs.com/"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Data+Analyst;🧰%20Excel|SQL|Python|Tableau;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Data+Analyst%20|+Data+Engineer%20|+Data+Scientist%20|;&center=true&width=500&height=50"></a>
 </p>
 
-
 <p align="center">
-  <a href="https://camilingjs.com" target="_blank">
-    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Portfolio_ob8jff.svg"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jonathancamiling/" target="_blank">
-    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167315/Icons/LinkedIn_zvteol.svg"/>
-  </a>
-  <a href="https://twitter.com/JayCamDev" target="_blank">
-    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167319/Icons/Twitter_lscpvt.svg"/>
-  </a>
-  <a href="https://angel.co/u/jonathan-camiling" target="_blank">
-      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/Angellist_dxlkpp.svg"/>
-  </a>
   <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
-      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Resume_n9qrqn.svg"/>
+      <img width="300px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735887682/resume_btn_ndaqtf"/>
   </a>
 </p>
 
@@ -138,20 +125,20 @@
 
 <a href="https://camilingjs.com" >
   <p align="center">
-    <img width="113px" alt="React" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/React_kd0d2a.svg" />
-    <img width="113px" alt="NodeJS" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/NodeJS_fu3vxy.svg" />
-    <img width="113px" alt="MongDB" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/MongoDB_kic9za.svg" />
-    <img width="113px" alt="Express" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Express_b0a1wn.svg" />
-    <img width="113px" alt="JavaScript" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/JavaScript_rbmc4n.svg" />
-    <img width="113px" alt="JQuery" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/JQuery_ulxhwg.svg" />
-    <img width="113px" alt="HTML" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167321/Icons/HTML_m92jqv.svg" />
-    <img width="113px" alt="CSS" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/CSS_zcsndz.svg" />
-    <img width="113px" alt="Github" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167321/Icons/Github_eqiymp.svg" />
-    <img width="113px" alt="VS Code" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167319/Icons/VSCode_xsvj3v.svg" />
-    <img width="113px" alt="Illustrator" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/Illustrator_lxern8.svg" />
-    <img width="113px" alt="Photoshop" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/Photoshop_yhelr4.svg" />
-    <img width="113px" alt="Shopify" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Shopify_hzeqma.svg" />
-    <img width="113px" alt="Liquid" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/Liquid_fdghrg.svg" /> 
+    <img width="113px" alt="React" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/React_kd0d2a" />
+    <img width="113px" alt="NodeJS" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/NodeJS_fu3vxy" />
+    <img width="113px" alt="MongDB" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/MongoDB_kic9za" />
+    <img width="113px" alt="Express" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Express_b0a1wn" />
+    <img width="113px" alt="JavaScript" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/JavaScript_rbmc4n" />
+    <img width="113px" alt="JQuery" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/JQuery_ulxhwg" />
+    <img width="113px" alt="HTML" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167321/Icons/HTML_m92jqv" />
+    <img width="113px" alt="CSS" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/CSS_zcsndz" />
+    <img width="113px" alt="Github" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167321/Icons/Github_eqiymp" />
+    <img width="113px" alt="VS Code" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167319/Icons/VSCode_xsvj3v" />
+    <img width="113px" alt="Illustrator" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/Illustrator_lxern8" />
+    <img width="113px" alt="Photoshop" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/Photoshop_yhelr4" />
+    <img width="113px" alt="Shopify" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Shopify_hzeqma" />
+    <img width="113px" alt="Liquid" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167316/Icons/Liquid_fdghrg" /> 
   </p>
 </a>
 
@@ -160,7 +147,12 @@
 
 ---
 
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
+      <img width="300px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735887682/resume_btn_ndaqtf"/>
+  </a>
+</p>
+<h1></h1>
 <h1 align="center">Connect</h1>
 <p align="center">
   <a href="https://camilingjs.com" target="_blank">
@@ -174,9 +166,6 @@
   </a>
   <a href="https://angel.co/u/jonathan-camiling" target="_blank">
       <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/Angellist_dxlkpp.svg"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
-      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Resume_n9qrqn.svg"/>
   </a>
   <a href="mailto:jonathan@jaycam.dev" target="_blank">
       <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Email_enql1e.svg"/>

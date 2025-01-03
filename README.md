@@ -13,11 +13,14 @@
   <a href="https://camilingjs.com/"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Data+Analyst;🧰%20Excel|SQL|Python|Tableau;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Data+Analyst%20|+Data+Engineer%20|+Data+Scientist%20|;&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center">
+
+  <h4 align="center">Open to collaborate and open for hire</h4>
+  <p align="center">
   <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
       <img width="300px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735887682/resume_btn_ndaqtf"/>
   </a>
-</p>
+  </p>
+  <h4 align="center">Team player you'll 💛</h4>
 
 <break/>
 <h1 align="center">Companies I've collaborated with</h1>

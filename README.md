@@ -1,4 +1,3 @@
-
 <a href="https://cal.com/jaycam/30min" target="_blank">
 <img align="center" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1734539282/Linked_Coverpage_JonathanCamiling_hca1ug" width="100%" alt="Banner stating that Jonathan Camiling is Analytical, Resourceful, and Determined." >
 </a>

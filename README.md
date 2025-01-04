@@ -141,7 +141,7 @@
     </td>
     <td width="20%">
       <div align="center" valign="bottom">
-      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735969294/JonathanCamiling_Excel_Logo" width="50%" alt="Tableau"/>
+      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735972208/JonathanCamiling_Tableau_Logo_" width="50%" alt="Tableau"/>
       </div>
       <br> <h2 align="center" valign="top">Tableau</h2>
     </td>

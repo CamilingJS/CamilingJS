@@ -127,9 +127,24 @@
 <h1 align="center">Expertise</h1>
 <table align="center">
   <tr>
-    <td width="25%"><h2>One</h2> <br> <h2 valign="top">Excel</h2></td>
-    <td width="25%"><h2>Two</h2> <br> <h2 valign="top">SQL</h2></td>
-    <td width="25%"><h2>Three</h2> <br> <h2 valign="top">Tableau</h2></td>
+    <td width="20%">
+      <div align="center" valign="bottom">
+      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735969294/JonathanCamiling_Excel_Logo" width="50%" alt="Excel"/>
+      </div>
+      <br> <h2 align="center" valign="top">Excel</h2>
+    </td>
+    <td width="20%">
+      <div align="center" valign="bottom">
+      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735971496/JonathanCamiling_SQL_Logo" width="50%" alt="SQL"/>
+      </div>
+      <br> <h2 align="center" valign="top">SQL</h2>
+    </td>
+    <td width="20%">
+      <div align="center" valign="bottom">
+      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735969294/JonathanCamiling_Excel_Logo" width="50%" alt="Tableau"/>
+      </div>
+      <br> <h2 align="center" valign="top">Tableau</h2>
+    </td>
   </tr>
 </table>
 

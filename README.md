@@ -129,21 +129,21 @@
   <tr>
     <td width="20%">
       <div align="center" valign="bottom">
-      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735969294/JonathanCamiling_Excel_Logo" width="60%" min-height="60px" alt="Excel"/>
+      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735969294/JonathanCamiling_Excel_Logo" width="56%" alt="Excel"/>
       </div>
-      <br> <h2 align="center" valign="top">Excel</h2>
+      <br> <h2 width="100%" align="center" valign="top">Excel</h2>
     </td>
     <td width="20%">
       <div align="center" valign="bottom">
-      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735971496/JonathanCamiling_SQL_Logo" width="70%" alt="SQL"/>
+      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735971496/JonathanCamiling_SQL_Logo" width="56%" alt="SQL"/>
       </div>
-      <br> <h2 align="center" valign="top">SQL</h2>
+      <br> <h2 width="100%" align="center" valign="top">SQL</h2>
     </td>
     <td width="20%">
       <div align="center" valign="bottom">
-      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735972208/JonathanCamiling_Tableau_Logo_" width="50%" alt="Tableau"/>
+      <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735972208/JonathanCamiling_Tableau_Logo_" width="56%" alt="Tableau"/>
       </div>
-      <br> <h2 align="center" valign="top">Tableau</h2>
+      <br> <h2 width="100%" align="center" valign="top">Tableau</h2>
     </td>
   </tr>
 </table>

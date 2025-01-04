@@ -47,23 +47,8 @@
 
 
 <h1 align="center">Work Demos</h1>
-<table >
+<table bordercolor="#66b2b2" >
   <tr>
-      <td width="60%">
-        <h2>Employee Benefits Admin and Invoices Reconciliation</h2>
-        <h4>Tailored Threads is a demonstrative e-Commerce website specialized for high volume inventory. Built on the premium Shopify theme, it is fully customized with an original logo and modern design. Due to it’s high volume, Shopify display tools such as Mega-menus, Shop the Look, and Tag-based collection filters are leveraged to provide an awesome user experience.</h4>
-        <a href="https://jaycam.dev/tailoredthreads" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
-        </a>
-      </td>
-    <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1674540813/StickyMarket/StickyMarket_sylelb.webp"></img>
-      </td>
-  </tr>
-</table>
-<table >
-  <tr>
-      <td width="20%"><img width="100%" src="./imgs/CypherBrewGIF.gif"></img>
-      </td>
       <td width="60%">
         <h2>Tailored Threads</h2>
         <h4>Tailored Threads is a demonstrative e-Commerce website specialized for high volume inventory. Built on the premium Shopify theme, it is fully customized with an original logo and modern design. Due to it’s high volume, Shopify display tools such as Mega-menus, Shop the Look, and Tag-based collection filters are leveraged to provide an awesome user experience.</h4>
@@ -71,9 +56,24 @@
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
         </a>
       </td>
+    <td width="20%"><img width="100%" src="./imgs/Tailored-ThreadsGIF.gif"></img>
+      </td>
   </tr>
 </table>
-<table >
+<table bordercolor="#66b2b2" >
+  <tr>
+      <td width="20%"><img width="100%" src="./imgs/CypherBrewGIF.gif"></img>
+      </td>
+      <td width="60%">
+        <h2>Cypher Brew</h2>
+        <h4>Cypher Brew exemplifies how a small business can keep its local charm and compete against the big guys. Built on the free theme Dawn with Shopify 2.0, it is intended to be elevated from it's essential architecture and now boast a modern and sleek design. The Shopify theme is fully customized for every need of the client.</h4>
+        <a href="https://jaycam.dev/tailoredthreads" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
+        </a>
+      </td>
+  </tr>
+</table>
+<table bordercolor="#66b2b2" >
   <tr>
       <td width="60%">
         <h2>Sticky Market</h2>
@@ -90,13 +90,13 @@
   </tr>
 </table>
 
-<table >
+<table bordercolor="#66b2b2" >
   <tr>
-      <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1674540813/StickyMarket/StickyMarket_sylelb.webp"></img>
+      <td width="20%"><img width="100%" src="./imgs/LarkspurBarbershop.gif"></img>
       </td>
       <td width="60%">
-        <h2>Employee Benefits Admin and Invoices Reconciliation</h2>
-        <h4>Tailored Threads is a demonstrative e-Commerce website specialized for high volume inventory. Built on the premium Shopify theme, it is fully customized with an original logo and modern design. Due to it’s high volume, Shopify display tools such as Mega-menus, Shop the Look, and Tag-based collection filters are leveraged to provide an awesome user experience.</h4>
+        <h2>Larkspur Barbershop </h2>
+        <h4>Built on fundamental HTML, CSS, and Vanilla Javascript, Larkspur Barbershop is a marketing website for a local barbershop. Links to Calendly are implemented to allow users to conveniently book their appointments in a few clicks of the mouse.</h4>
         <a href="https://jaycam.dev/tailoredthreads" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
         </a>
@@ -104,84 +104,7 @@
   </tr>
 </table>
 <table >
-
-<table bordercolor="#66b2b2">
   
-  <tr style="background-image: url(https://res.cloudinary.com/dxctpvd8v/image/upload/v1687994373/Ayeyo.me/bg-noise-download_s8smjm.png)" >
-    <td width="50%" valign="top">
-      <h3 align="center">Tailored Threads</h3>
-        <br />
-        <a target="_blank" href="https://jaycam.dev/tailoredthreads">
-            <img src="./imgs/Tailored-ThreadsGIF.gif" width="100%" alt="Travel App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  
-  <a href="https://jaycam.dev/tailoredthreads" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
-  </a>
-      </p>
-        <p>Tailored Threads is a demonstrative e-Commerce website specialized for high volume inventory. Built on the premium Shopify theme, it is fully customized with an original logo and modern design. Due to it’s high volume, Shopify display tools such as Mega-menus, Shop the Look, and Tag-based collection filters are leveraged to provide an awesome user experience.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Sticky Market</h3>
-      <br />
-        <a target="_blank" href="https://stickymarket.onrender.com/">
-          <img src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1674540813/StickyMarket/StickyMarket_sylelb.webp" width="100%" alt="Ecommerce app"/>
-        </a>
-      <br />
-        <p align="center">
-
-  <a href="https://stickymarket.onrender.com/" target="_blank">
-    <a href="https://github.com/CamilingJS/StickyMarket" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-    <a href="https://stickymarket.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript, Express, & NodeJS</strong> <br>Sticky Market is an E-Commerce Web Application selling awesome stickers for Crypto Currency enthusiasts. It is a fullstack application built on HTML, CSS, Vanilla Javascript, Express, and NodesJS. It allows admin users to create an account and upload and sell their items. </p>
-    </td>
-  </tr>
-  
-  <tr style="background-image: url(https://res.cloudinary.com/dxctpvd8v/image/upload/v1687994373/Ayeyo.me/bg-noise-download_s8smjm.png)" >
-    <td width="50%" valign="top">
-      <h3 align="center">Cypher Brew</h3>
-      <br />
-        <a target="_blank" href="https://jaycam.dev/cypherbrew">
-          <img src="./imgs/CypherBrewGIF.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-
-  <a href="https://jaycam.dev/cypherbrew" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
-  </a>
-      </p>
-        <p>Cypher Brew exemplifies how a small business can keep its local charm and compete against the big guys. Built on the free theme Dawn with Shopify 2.0, it is intended to be elevated from it's essential architecture and now boast a modern and sleek design. The Shopify theme is fully customized for every need of the client.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Larkspur Barbershop</h3>
-        <br />
-        <a target="_blank" href="https://larkspurbarbershop.netlify.app/">
-          <img src="./imgs/LarkspurBarbershop.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/CamilingJS/larkspurbarbershop" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://larkspurbarbershop.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> <br> Built on fundamental HTML, CSS, and Vanilla Javascript, Larkspur Barbershop is a marketing website for a local barbershop. Links to Calendly are implemented to allow users to conveniently book their appointments in a few clicks of the mouse.</p>
-    </td>
-  </tr>
-</table>
-
 <h1 align="center">Expertise</h1>
 <table align="center">
   <tr>

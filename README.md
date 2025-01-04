@@ -124,6 +124,15 @@
   </tr>
 </table>
 
+<h1 align="center">Expertise</h1>
+<table align="center">
+  <tr>
+    <td width="25%"><h2>One</h2> <br> <h2 valign="top">Excel</h2></td>
+    <td width="25%"><h2>Two</h2> <br> <h2 valign="top">SQL</h2></td>
+    <td width="25%"><h2>Three</h2> <br> <h2 valign="top">Tableau</h2></td>
+  </tr>
+</table>
+
 <h1 align="center">Technologies</h1>
 
 <a href="https://camilingjs.com" >

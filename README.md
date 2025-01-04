@@ -56,7 +56,7 @@
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
         </a>
       </td>
-    <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1674540813/StickyMarket/StickyMarket_sylelb.webp"></img>
+    <td width="20%" valign="top"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1674540813/StickyMarket/StickyMarket_sylelb.webp"></img>
       </td>
   </tr>
 </table>

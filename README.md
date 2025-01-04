@@ -182,22 +182,19 @@
 <h1></h1>
 <h1 align="center">Connect</h1>
 <p align="center">
-  <a href="https://camilingjs.com" target="_blank">
-    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Portfolio_ob8jff.svg"/>
-  </a>
   <a href="https://www.linkedin.com/in/jonathancamiling/" target="_blank">
-    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167315/Icons/LinkedIn_zvteol.svg"/>
+    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167315/Icons/LinkedIn_zvteol"/>
   </a>
   <a href="https://twitter.com/JayCamDev" target="_blank">
-    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167319/Icons/Twitter_lscpvt.svg"/>
+    <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167319/Icons/Twitter_lscpvt"/>
   </a>
   <a href="https://angel.co/u/jonathan-camiling" target="_blank">
-      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/Angellist_dxlkpp.svg"/>
+      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/Angellist_dxlkpp"/>
   </a>
   <a href="mailto:jonathan@jaycam.dev" target="_blank">
-      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Email_enql1e.svg"/>
+      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Email_enql1e"/>
   </a>
-  <a href="https://camilingjs.com/contactcard" target="_blank">
-      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Phone_cfzjxz.svg"/>
+  <a href="https://camilingjs.com/#contact" target="_blank">
+      <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Phone_cfzjxz"/>
   </a>
 </p>

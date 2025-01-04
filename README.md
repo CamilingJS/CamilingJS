@@ -1,7 +1,11 @@
 <a href="https://cal.com/jaycam/30min" target="_blank">
     <img align="center" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1734539282/Linked_Coverpage_JonathanCamiling_hca1ug" width="100%" alt="Banner stating that Jonathan Camiling is Analytical, Resourceful, and Determined.">
 </a>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />, I'm Jonathan Camiling</h1> ### 👨🏽‍🔬 Data Analyst for hire! ### 🤎 I am a data analyst with 9+ years of experience collaborating with tech companies specializing in SaaS and business solutions, with a focus on billing and finance. I excel in leveraging SQL, Excel, and Tableau to deliver actionable business intelligence and support sound decision-making. <p align="center">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />, I'm Jonathan Camiling</h1> 
+<h2> 👨🏽‍🔬 Data Analyst for hire!</h3>
+<h3>🤎 I am a data analyst with 9+ years of experience collaborating with tech companies specializing in SaaS and business solutions, with a focus on billing and finance. I excel in leveraging SQL, Excel, and Tableau to deliver actionable business intelligence and support sound decision-making.
+</h3>    
+    <p align="center">
     <a href="https://cal.com/jaycam/30min"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Data+Analyst;🧰%20Excel|SQL|Python|Tableau;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Data+Analyst%20|+Data+Engineer%20|+Data+Scientist%20|;&center=true&width=500&height=50"></a>
 </p>
 <h4 align="center">Open to collaborate and open for hire</h4>
@@ -43,7 +47,7 @@
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white" />
             </a>
         </td>
-        <td width="20%"><img width="100%" src="./imgs/Tailored-ThreadsGIF.gif"></img>
+        <td width="20%"><img width="100%" src="./imgs/Tailored-ThreadsGIF.gif"/>
         </td>
     </tr>
 </table>

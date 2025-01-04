@@ -1,5 +1,5 @@
 
-<a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
+<a href="https://cal.com/jaycam/30min" target="_blank">
 <img align="center" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1734539282/Linked_Coverpage_JonathanCamiling_hca1ug" width="100%" alt="Banner stating that Jonathan Camiling is Analytical, Resourceful, and Determined." >
 </a>
 
@@ -10,7 +10,7 @@
 ### 🤎 I am a data analyst with 9+ years of experience collaborating with tech companies specializing in SaaS and business solutions, with a focus on billing and finance. I excel in leveraging SQL, Excel, and Tableau to deliver actionable business intelligence and support sound decision-making.
 
 <p align="center">
-  <a href="https://camilingjs.com/"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Data+Analyst;🧰%20Excel|SQL|Python|Tableau;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Data+Analyst%20|+Data+Engineer%20|+Data+Scientist%20|;&center=true&width=500&height=50"></a>
+  <a href="https://cal.com/jaycam/30min"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=🖖🏼%20I+am+Jonathan+Camiling;🧙🏼‍♂️%20Data+Analyst;🧰%20Excel|SQL|Python|Tableau;🤎%20Always+Open+to+Collaborate+and+Learn!;💪🏼%20Resourceful|Analytical|Determined;🎨%20Data+Analyst%20|+Data+Engineer%20|+Data+Scientist%20|;&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -168,14 +168,14 @@
   <a href="mailto:jonathan@jaycam.dev" target="_blank">
       <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Email_enql1e"/>
   </a>
-  <a href="https://camilingjs.com/#contact" target="_blank">
+  <a href="https://cal.com/jaycam/30min" target="_blank">
       <img width="90px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/Phone_cfzjxz"/>
   </a>
 </p>
 
 
 <h2 align="center">Misc Experiences</h2>
-<a href="https://camilingjs.com" >
+<a href="https://cal.com/jaycam/30min" >
   <p align="center">
     <img width="79px" alt="Github" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167321/Icons/Github_eqiymp" />
     <img width="79px" alt="React" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167317/Icons/React_kd0d2a" />

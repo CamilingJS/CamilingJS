@@ -65,7 +65,7 @@
       <td width="20%"><img width="100%" src="./imgs/CypherBrewGIF.gif"></img>
       </td>
       <td width="60%">
-        <h2>Employee Benefits Admin and Invoices Reconciliation</h2>
+        <h2>Tailored Threads</h2>
         <h4>Tailored Threads is a demonstrative e-Commerce website specialized for high volume inventory. Built on the premium Shopify theme, it is fully customized with an original logo and modern design. Due to it’s high volume, Shopify display tools such as Mega-menus, Shop the Look, and Tag-based collection filters are leveraged to provide an awesome user experience.</h4>
         <a href="https://jaycam.dev/tailoredthreads" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
@@ -76,11 +76,14 @@
 <table >
   <tr>
       <td width="60%">
-        <h2>Employee Benefits Admin and Invoices Reconciliation</h2>
-        <h4>Tailored Threads is a demonstrative e-Commerce website specialized for high volume inventory. Built on the premium Shopify theme, it is fully customized with an original logo and modern design. Due to it’s high volume, Shopify display tools such as Mega-menus, Shop the Look, and Tag-based collection filters are leveraged to provide an awesome user experience.</h4>
-        <a href="https://jaycam.dev/tailoredthreads" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white"/>
-        </a>
+        <h2>Sticky Market</h2>
+        <h4>Sticky Market is an E-Commerce Web Application selling awesome stickers for Crypto Currency enthusiasts. It is a fullstack application built on HTML, CSS, Vanilla Javascript, Express, and NodesJS. It allows admin users to create an account and upload and sell their items.</h4>
+          <a href="https://github.com/CamilingJS/StickyMarket" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+    <a href="https://stickymarket.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
       </td>
     <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1674540813/StickyMarket/StickyMarket_sylelb.webp"></img>
       </td>

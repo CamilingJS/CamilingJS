@@ -184,6 +184,7 @@
     <img width="79px" alt="Express" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/Express_b0a1wn" />
     <img width="79px" alt="JavaScript" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/JavaScript_rbmc4n" />
     <img width="79px" alt="JQuery" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167314/Icons/JQuery_ulxhwg" />
+    <br>
     <img width="79px" alt="HTML" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167321/Icons/HTML_m92jqv" />
     <img width="79px" alt="CSS" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167320/Icons/CSS_zcsndz" />
     <img width="79px" alt="VS Code" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1688167319/Icons/VSCode_xsvj3v" />

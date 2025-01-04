@@ -16,7 +16,7 @@
 
   <h4 align="center">Open to collaborate and open for hire</h4>
   <p align="center">
-  <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
+  <a href="https://drive.google.com/file/d/14HAPM5gILiywRJ2osYlkmTNN52h74our/view" target="_blank">
       <img width="300px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735887682/resume_btn_ndaqtf"/>
   </a>
   </p>
@@ -151,7 +151,7 @@
 <h1></h1>
 <h1 align="center">Connect</h1>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1IG7GSuqQc5jsuPURMa65rHZsTPgZSK-j/view" target="_blank">
+  <a href="https://drive.google.com/file/d/14HAPM5gILiywRJ2osYlkmTNN52h74our/view" target="_blank">
       <img width="300px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735887682/resume_btn_ndaqtf"/>
   </a>
 </p>

@@ -149,7 +149,7 @@
 </table>
 
 <h1></h1>
-<h1 align="center">Connect</h1>
+<h1 align="center">Let's Connect</h1>
 <p align="center">
   <a href="https://drive.google.com/file/d/14HAPM5gILiywRJ2osYlkmTNN52h74our/view" target="_blank">
       <img width="300px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1735887682/resume_btn_ndaqtf"/>

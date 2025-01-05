@@ -43,9 +43,11 @@
         <td width="60%">
             <h2>EList Post-Pandemic E-Commerce Sales Analysis</h2>
             <h4>Founded in 2018, Elist is an e-commerce company that specializes in selling electronic consumer goods to customers all across the country, with a recent user base expansion to global markets over the past few years. Like many other e-commerce companies, Elist sells their products through their online website as well as their own mobile app. Additionally, they utilize several different marketing channels to target consumers such as SEO, email campaigns, and affiliate links...</h4>
-            <a href="https://jaycam.dev/tailoredthreads" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=EXCEL&color=cdf998&style=plastic&logo=excel&logo-color=white" />
-            </a>
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041915/JonathanCamiling_SQL_Mini_Logo" alt="SQL" />
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736042627/JonathanCamiling_Python_Mini_Logo" alt="Python" />
+                <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project" /></a>
         </td>
         <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736038749/JonathanCamiling_Ecommerce_Sales_Analysis.webp"/>
         </td>

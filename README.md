@@ -86,7 +86,7 @@
         </td>
         <td width="60%">
             <h2>Job Search Scraping and Analysis</h2>
-            <h4>Built on fundamental HTML, CSS, and Vanilla Javascript, Larkspur Barbershop is a marketing website for a local barbershop. Links to Calendly are implemented to allow users to conveniently book their appointments in a few clicks of the mouse.</h4>
+            <h4>Jobs Spreadsheets project is a Node.js-based application that automates the process of fetching job listings and storing them in a Google Sheet for easy access and analysis. The application interacts with the Adzuna Job Search API to retrieve a list of Data Analyst job openings in Orange County, California.</h4>
             <a href="https://jaycam.dev/tailoredthreads" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white" />
             </a>

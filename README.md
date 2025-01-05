@@ -55,7 +55,7 @@
 </table>
 <table bordercolor="#66b2b2">
     <tr>
-        <td width="20%"><img width="100%" src="./imgs/CypherBrewGIF.gif"></img>
+        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736052239/JonathanCamilingInventoryAnalysis.webp"></img>
         </td>
         <td width="60%">
             <h2>Liquor Store Chain Inventory Analysis</h2>

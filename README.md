@@ -60,9 +60,10 @@
         <td width="60%">
             <h2>Liquor Store Chain Inventory Analysis</h2>
             <h4>Between 2018 and 2022, 12.5 million orders were placed with the state Alcoholic Beverages Department, for a total of $1.9 billion in sales. These orders were placed by 2,389 stores in 100 counties, from an inventory of 8,117 products from 375 vendors.I analyzed overall sales, vendor performance, sales by location, and product performance to provide insights and recommendations to cross-functional departments (marketing, sales, inventory management).</h4>
-            <a href="https://jaycam.dev/tailoredthreads" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white" />
-            </a>
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041915/JonathanCamiling_SQL_Mini_Logo" alt="SQL" />
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
+                <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project" /></a>
         </td>
     </tr>
 </table>
@@ -71,12 +72,10 @@
         <td width="60%">
             <h2>Healthcare Analysis</h2>
             <h4>Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. Their customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates. </h4>
-            <a href="https://github.com/CamilingJS/StickyMarket" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-            </a>
-            <a href="https://stickymarket.onrender.com/" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white" />
-            </a>
+            <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
+            <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041915/JonathanCamiling_SQL_Mini_Logo" alt="SQL" />
+            <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
+            <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project" /></a>
         </td>
         <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1674540813/StickyMarket/StickyMarket_sylelb.webp"></img>
         </td>
@@ -89,9 +88,10 @@
         <td width="60%">
             <h2>Job Search Scraping and Analysis</h2>
             <h4>Jobs Spreadsheets project is a Node.js-based application that automates the process of fetching job listings and storing them in a Google Sheet for easy access and analysis. The application interacts with the Adzuna Job Search API to retrieve a list of Data Analyst job openings in Orange County, California.</h4>
-            <a href="https://jaycam.dev/tailoredthreads" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white" />
-            </a>
+            <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
+            <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041915/JonathanCamiling_SQL_Mini_Logo" alt="SQL" />
+            <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
+            <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project" /></a>
         </td>
     </tr>
 </table>

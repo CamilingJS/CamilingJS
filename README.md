@@ -41,13 +41,13 @@
 <table bordercolor="#66b2b2">
     <tr>
         <td width="60%">
-            <h2>Tailored Threads</h2>
+            <h2>Ecommerce Sales Analysis</h2>
             <h4>Tailored Threads is a demonstrative e-Commerce website specialized for high volume inventory. Built on the premium Shopify theme, it is fully customized with an original logo and modern design. Due to it’s high volume, Shopify display tools such as Mega-menus, Shop the Look, and Tag-based collection filters are leveraged to provide an awesome user experience.</h4>
             <a href="https://jaycam.dev/tailoredthreads" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white" />
             </a>
         </td>
-        <td width="20%"><img width="100%" src="./imgs/Tailored-ThreadsGIF.gif"/>
+        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736038749/JonathanCamiling_Ecommerce_Sales_Analysis.webp"/>
         </td>
     </tr>
 </table>

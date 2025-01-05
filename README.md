@@ -77,7 +77,7 @@
             <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
             <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project" /></a>
         </td>
-        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1674540813/StickyMarket/StickyMarket_sylelb.webp"></img>
+        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736045805/JonathanCamiling_HealthcareAnalysis_.webp" alt="Healthcare Analysis"></img>
         </td>
     </tr>
 </table>

@@ -41,10 +41,10 @@
 <table bordercolor="#66b2b2">
     <tr>
         <td width="60%">
-            <h2>Ecommerce Sales Analysis</h2>
-            <h4>Tailored Threads is a demonstrative e-Commerce website specialized for high volume inventory. Built on the premium Shopify theme, it is fully customized with an original logo and modern design. Due to it’s high volume, Shopify display tools such as Mega-menus, Shop the Look, and Tag-based collection filters are leveraged to provide an awesome user experience.</h4>
+            <h2>EList Post-Pandemic E-Commerce Sales Analysis</h2>
+            <h4>Founded in 2018, Elist is an e-commerce company that specializes in selling electronic consumer goods to customers all across the country, with a recent user base expansion to global markets over the past few years. Like many other e-commerce companies, Elist sells their products through their online website as well as their own mobile app. Additionally, they utilize several different marketing channels to target consumers such as SEO, email campaigns, and affiliate links...</h4>
             <a href="https://jaycam.dev/tailoredthreads" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white" />
+                <img src="https://img.shields.io/static/v1?label=|&message=EXCEL&color=cdf998&style=plastic&logo=excel&logo-color=white" />
             </a>
         </td>
         <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736038749/JonathanCamiling_Ecommerce_Sales_Analysis.webp"/>
@@ -56,8 +56,8 @@
         <td width="20%"><img width="100%" src="./imgs/CypherBrewGIF.gif"></img>
         </td>
         <td width="60%">
-            <h2>Cypher Brew</h2>
-            <h4>Cypher Brew exemplifies how a small business can keep its local charm and compete against the big guys. Built on the free theme Dawn with Shopify 2.0, it is intended to be elevated from it's essential architecture and now boast a modern and sleek design. The Shopify theme is fully customized for every need of the client.</h4>
+            <h2>Liquor Store Chain Inventory Analysis</h2>
+            <h4>Between 2018 and 2022, 12.5 million orders were placed with the state Alcoholic Beverages Department, for a total of $1.9 billion in sales. These orders were placed by 2,389 stores in 100 counties, from an inventory of 8,117 products from 375 vendors.I analyzed overall sales, vendor performance, sales by location, and product performance to provide insights and recommendations to cross-functional departments (marketing, sales, inventory management).</h4>
             <a href="https://jaycam.dev/tailoredthreads" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white" />
             </a>
@@ -67,8 +67,8 @@
 <table bordercolor="#66b2b2">
     <tr>
         <td width="60%">
-            <h2>Sticky Market</h2>
-            <h4>Sticky Market is an E-Commerce Web Application selling awesome stickers for Crypto Currency enthusiasts. It is a fullstack application built on HTML, CSS, Vanilla Javascript, Express, and NodesJS. It allows admin users to create an account and upload and sell their items.</h4>
+            <h2>Healthcare Analysis</h2>
+            <h4>Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. Their customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates. </h4>
             <a href="https://github.com/CamilingJS/StickyMarket" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
             </a>
@@ -85,7 +85,7 @@
         <td width="20%"><img width="100%" src="./imgs/LarkspurBarbershop.gif"></img>
         </td>
         <td width="60%">
-            <h2>Larkspur Barbershop </h2>
+            <h2>Job Search Scraping and Analysis</h2>
             <h4>Built on fundamental HTML, CSS, and Vanilla Javascript, Larkspur Barbershop is a marketing website for a local barbershop. Links to Calendly are implemented to allow users to conveniently book their appointments in a few clicks of the mouse.</h4>
             <a href="https://jaycam.dev/tailoredthreads" target="_blank">
                 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=shopify&logo-color=white" />

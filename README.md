@@ -55,20 +55,8 @@
 </table>
 <table bordercolor="#66b2b2">
     <tr>
-        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736052239/JonathanCamilingInventoryAnalysis.webp"></img>
+        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736049078/JonathanCamiling_Healthcare_Analysis_icvwkb.webp" alt="Healthcare analysis" />
         </td>
-        <td width="60%">
-            <h2>Liquor Store Chain Inventory Analysis</h2>
-            <h4>Between 2018 and 2022, 12.5 million orders were placed with the state Alcoholic Beverages Department, for a total of $1.9 billion in sales. These orders were placed by 2,389 stores in 100 counties, from an inventory of 8,117 products from 375 vendors.I analyzed overall sales, vendor performance, sales by location, and product performance to provide insights and recommendations to cross-functional departments (marketing, sales, inventory management).</h4>
-                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
-                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041915/JonathanCamiling_SQL_Mini_Logo" alt="SQL" />
-                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
-                <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project" /></a>
-        </td>
-    </tr>
-</table>
-<table bordercolor="#66b2b2">
-    <tr>
         <td width="60%">
             <h2>Healthcare Analysis</h2>
             <h4>Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. Their customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates. </h4>
@@ -77,7 +65,19 @@
             <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
             <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project" /></a>
         </td>
-        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736049078/JonathanCamiling_Healthcare_Analysis_icvwkb.webp" alt="Healthcare analysis" />
+    </tr>
+</table>
+<table bordercolor="#66b2b2">
+    <tr>
+        <td width="60%">
+            <h2>Liquor Store Chain Inventory Analysis</h2>
+            <h4>Between 2018 and 2022, 12.5 million orders were placed with the state Alcoholic Beverages Department, for a total of $1.9 billion in sales. These orders were placed by 2,389 stores in 100 counties, from an inventory of 8,117 products from 375 vendors.I analyzed overall sales, vendor performance, sales by location, and product performance to provide insights and recommendations to cross-functional departments (marketing, sales, inventory management).</h4>
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041915/JonathanCamiling_SQL_Mini_Logo" alt="SQL" />
+                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
+                <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project" /></a>
+        </td>
+        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736052239/JonathanCamilingInventoryAnalysis.webp"></img>
         </td>
     </tr>
 </table>

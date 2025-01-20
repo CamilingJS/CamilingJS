@@ -61,9 +61,10 @@ decision-making.
                 <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736042627/JonathanCamiling_Python_Mini_Logo" alt="Python" />
                 <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md"><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project"></a>
         </td>
-        <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md">
-        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736038749/JonathanCamiling_Ecommerce_Sales_Analysis.webp"/>
-        </a>
+        <td width="20%">
+            <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md">
+            <img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736038749/JonathanCamiling_Ecommerce_Sales_Analysis.webp"/>
+            </a>
         </td>
     </tr>
 </table>

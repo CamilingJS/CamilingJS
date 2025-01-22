@@ -54,7 +54,8 @@ decision-making.
     <tr>
         <td width="60%">
             <h2>EList Post-Pandemic E-Commerce Sales Analysis</h2>
-            <h4>Founded in 2018, Elist is an e-commerce company that specializes in selling electronic consumer goods to customers all across the country, with a recent user base expansion to global markets over the past few years. Like many other e-commerce companies, Elist sells their products through their online website as well as their own mobile app. Additionally, they utilize several different marketing channels to target consumers such as SEO, email campaigns, and affiliate links...</h4>
+            <h4>Founded in 2018, Elist is an e-commerce company that sells popular electronic products and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through its online site as well as its mobile app. It uses a variety of marketing channels to reach customers, including email campaigns, SEO, and affiliate links. Over the past few years, its most popular products have been from Apple, Samsung, and ThinkPad.
+The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. Its data is quite messy (surprise!) and contains numerous insights that have yet to be discovered by the company.</h4>
                 <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md" target="_blank">
                 <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
                 </a>
@@ -84,7 +85,9 @@ decision-making.
         </td>
         <td width="60%">
             <h2>Healthcare Analysis</h2>
-            <h4>Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. Their customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates. </h4>
+            <h4>Founded in 2016, Row Health is a medical insurance company serving thousands of customers across the United States. In 2019, the company launched a new set of marketing campaign categories, covering topics such as wellness tips, the affordability of their plans, and preventative care. Customers can choose from four different plans—bronze, silver, gold, and platinum—each with varying premiums and claim coverage rates.
+<br>
+With a new data team onboard and plans to strategize their marketing budget for the year, the company aims to gain a deeper understanding of the effectiveness of these campaign categories and their relationship to signups and subsequent patient claims.</h4>
             <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
             <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041915/JonathanCamiling_SQL_Mini_Logo" alt="SQL" />
             <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />

@@ -66,9 +66,6 @@ The company has a core dataset consisting of orders, order statuses, customers, 
                 <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
                 </a>
                 <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md" target="_blank">
-                <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736042627/JonathanCamiling_Python_Mini_Logo" alt="Python" />
-                </a>
-                <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md" target="_blank">
                     <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project">
                 </a>
         </td>

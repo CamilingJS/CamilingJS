@@ -71,6 +71,7 @@ The company has a core dataset consisting of orders, order statuses, customers, 
         </td>
         <td width="20%">
             <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md" target="_blank">
+            <div><img width="160px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1738046916/TechShere_Logo_JonathanCamiling" /></div>
             <img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736038749/JonathanCamiling_Ecommerce_Sales_Analysis.webp"/>
             </a>
         </td>

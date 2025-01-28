@@ -53,9 +53,9 @@ decision-making.
 <table bordercolor="#66b2b2">
     <tr>
         <td width="60%">
-            <h2>EList Post-Pandemic E-Commerce Sales Analysis</h2>
-            <h4>Founded in 2018, Elist is an e-commerce company that sells popular electronic products and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through its online site as well as its mobile app. It uses a variety of marketing channels to reach customers, including email campaigns, SEO, and affiliate links. Over the past few years, its most popular products have been from Apple, Samsung, and ThinkPad.
-The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. Its data is quite messy (surprise!) and contains numerous insights that have yet to be discovered by the company.</h4>
+            <h2>TechSphere Post-Pandemic E-Commerce Sales Analysis</h2>
+            <h4>Founded in 2018, TechSphere is an e-commerce company that sells popular electronic products and has since expanded to a global customer base. Like most e-commerce companies, TechSphere sells products through its online site as well as its mobile app. It uses a variety of marketing channels to reach customers, including email campaigns, SEO, and affiliate links. Over the past few years, its most popular products have been from Apple, Samsung, and ThinkPad.
+The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. Its data was quite messy, so we extracted numerous insights that had not yet been discovered by the company.</h4>
                 <a href="https://github.com/CamilingJS/elist_analysis/blob/main/README.md" target="_blank">
                 <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
                 </a>

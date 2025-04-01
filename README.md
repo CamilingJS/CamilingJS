@@ -79,7 +79,7 @@ The company has a core dataset consisting of orders, order statuses, customers, 
 </table>
 <table bordercolor="#66b2b2">
     <tr>
-        <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736049078/JonathanCamiling_Healthcare_Analysis_icvwkb.webp" alt="Healthcare analysis" />
+        <td width="20%"><a href="https://public.tableau.com/app/profile/jonathan.camiling/viz/Irvine_Health_Group_Insurance/Dashboard?publish=yes" target="_blank"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736049078/JonathanCamiling_Healthcare_Analysis_icvwkb.webp" alt="Healthcare analysis" /></a>
         </td>
         <td width="60%">
             <h2>Health Insurance Analysis</h2>

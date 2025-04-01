@@ -82,21 +82,21 @@ The company has a core dataset consisting of orders, order statuses, customers, 
         <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736049078/JonathanCamiling_Healthcare_Analysis_icvwkb.webp" alt="Healthcare analysis" />
         </td>
         <td width="60%">
-            <h2>Healthcare Analysis</h2>
-            <h4>Founded in 2016, Row Health is a medical insurance company serving thousands of customers across the United States. In 2019, the company launched a new set of marketing campaign categories, covering topics such as wellness tips, the affordability of their plans, and preventative care. Customers can choose from four different plans—bronze, silver, gold, and platinum—each with varying premiums and claim coverage rates.
+            <h2>Health Insurance Analysis</h2>
+            <h4>Irvine Health Group Insurance is a medical insurance company serving thousands of customers across the United States. In 2019, the company launched a new set of marketing campaign categories, covering topics such as wellness tips, the affordability of their plans, and preventative care. Customers can choose from four different plans—bronze, silver, gold, and platinum—each with varying premiums and claim coverage rates.
 <br>
 With a new data team onboard and plans to strategize their marketing budget for the year, the company aims to gain a deeper understanding of the effectiveness of these campaign categories and their relationship to signups and subsequent patient claims.</h4>
             <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
             <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041915/JonathanCamiling_SQL_Mini_Logo" alt="SQL" />
             <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041705/JonathanCamiling_Tableau_Mini_Logo_k0hdjz" alt="Tableau" />
-            <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project"></a>
+            <a href="https://public.tableau.com/app/profile/jonathan.camiling/viz/Irvine_Health_Group_Insurance/Dashboard?publish=yes"><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project"></a>
         </td>
     </tr>
 </table>
 <table bordercolor="#66b2b2">
     <tr>
         <td width="60%">
-            <h2>Liquor Store Chain Inventory Analysis</h2>
+            <h2>Consolidated Billing - Employee Benefits</h2>
             <h4>Between 2018 and 2022, 12.5 million orders were placed with the state Alcoholic Beverages Department, for a total of $1.9 billion in sales. These orders were placed by 2,389 stores in 100 counties, from an inventory of 8,117 products from 375 vendors.I analyzed overall sales, vendor performance, sales by location, and product performance to provide insights and recommendations to cross-functional departments (marketing, sales, inventory management).</h4>
                 <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041465/JonathanCamiling_Excel_Mini_ukzmms" alt="Excel" />
                 <img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736041915/JonathanCamiling_SQL_Mini_Logo" alt="SQL" />

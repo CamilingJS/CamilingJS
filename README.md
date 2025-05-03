@@ -93,7 +93,7 @@ With a new data team onboard and plans to strategize their marketing budget for 
         </td>
     </tr>
 </table>
-<table bordercolor="#66b2b2">
+<!-- <table bordercolor="#66b2b2">
     <tr>
         <td width="60%">
             <h2>Consolidated Billing - Employee Benefits</h2>
@@ -105,8 +105,8 @@ With a new data team onboard and plans to strategize their marketing budget for 
         </td>
         <td width="20%"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736052239/JonathanCamilingInventoryAnalysis.webp"></img>
         </td>
-    </tr>
-</table>
+    </tr> -->
+<!-- </table>
 <table bordercolor="#66b2b2">
     <tr>
         <td width="20%"><img width="100%" src="./imgs/LarkspurBarbershop.gif"></img>
@@ -120,7 +120,7 @@ With a new data team onboard and plans to strategize their marketing budget for 
             <a href=""><img width="100px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736043012/Go_To_Project_" alt="Go To Project" /></a>
         </td>
     </tr>
-</table>
+</table> -->
 <table>
     <h1 align="center">Expertise</h1>
     <table align="center">

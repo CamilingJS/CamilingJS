@@ -53,7 +53,7 @@ decision-making.
 <table bordercolor="#66b2b2">
     <tr>
         <td width="60%">
-            <h2>TechSphere Post-Pandemic E-Commerce Sales Analysis</h2>
+            <h2>TechSphere E-Commerce Sales Analysis</h2>
             <h4>Founded in 2018, TechSphere is an e-commerce company that sells popular electronic products and has since expanded to a global customer base. Like most e-commerce companies, TechSphere sells products through its online site as well as its mobile app. It uses a variety of marketing channels to reach customers, including email campaigns, SEO, and affiliate links. Over the past few years, its most popular products have been from Apple, Samsung, and ThinkPad.
 The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. Its data was quite messy, so we extracted numerous insights that had not yet been discovered by the company.</h4>
                 <a href="https://github.com/CamilingJS/TechSphere_Ecommerce/blob/main/README.md" target="_blank">
@@ -82,7 +82,7 @@ The company has a core dataset consisting of orders, order statuses, customers, 
         <td width="20%"><a href="https://public.tableau.com/app/profile/jonathan.camiling/viz/Irvine_Health_Group_Insurance/Dashboard?publish=yes" target="_blank"><img width="100%" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1736049078/JonathanCamiling_Healthcare_Analysis_icvwkb.webp" alt="Healthcare analysis" /></a>
         </td>
         <td width="60%">
-            <h2>Health Insurance Analysis</h2>
+            <h2>Irvine Health Group Insurance</h2>
             <h4>Irvine Health Group Insurance is a medical insurance company serving thousands of customers across the United States. In 2019, the company launched a new set of marketing campaign categories, covering topics such as wellness tips, the affordability of their plans, and preventative care. Customers can choose from four different plans—bronze, silver, gold, and platinum—each with varying premiums and claim coverage rates.
 <br>
 With a new data team onboard and plans to strategize their marketing budget for the year, the company aims to gain a deeper understanding of the effectiveness of these campaign categories and their relationship to signups and subsequent patient claims.</h4>
